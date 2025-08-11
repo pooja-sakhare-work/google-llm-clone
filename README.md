@@ -2,6 +2,12 @@
 
 A PDF document analysis and chat application built with Django and React, featuring OpenAI GPT integration.
 
+## 📸 Screenshots
+
+### Main Interface
+![Google LLM Clone Interface](/screenshot.png)
+
+
 ## Quick Start
 
 ### Prerequisites
